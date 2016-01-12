@@ -1,6 +1,6 @@
 The viewport controls how your webpage is rendered on mobile devices. If no viewport is specified mobile devices will try to render with typical desktop width for compatibility which breaks user experience.
 
-To avoid problems with screen sizes it not recommended to specify explicit widths for the viewport.
+To avoid problems with screen sizes it's not recommended to specify explicit widths for the viewport.
 
 When checking for the viewport we expect to see the following:
 
