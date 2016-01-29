@@ -1,11 +1,15 @@
 Empty src attribute was found in an iframe. According to the W3C iframe src attributes may not be empty. The combination of an empty iframe loaded inside a secure web page (SSL/HTTPS) could possibly make browsers display 'This page has insecure content' or similar error and might block the iframe content all together.
 
-`<iframe src=""></iframe>`
+```html
+<iframe src=""></iframe>
+```
 
 # How do I fix this ?
 
 Place `about:blank` inside the `src` attribute:
-`<iframe src='about:blank'></iframe>`
+```html
+<iframe src="about:blank"></iframe>
+```
 
 # Resources
 
