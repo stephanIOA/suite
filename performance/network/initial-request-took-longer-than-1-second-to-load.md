@@ -1,9 +1,10 @@
-The average user is easily distracted and with slow requests
-you risk losing site interaction or possible customers.
-
+Slow response times increase page abandonment with the average user only waiting
+6-10 seconds before leaving a site. Response times of less than 1 second feels
+instantaneous to the user, while in the range of 1 second a user maintains his/her
+thought process. Anywhere from 6 seconds and longer, the user loses patience with
+the site and will abandon it.
 
 # How do I fix this ?
-
 
 * Minify your JavaScript and CSS files
 * Combine external JavaScript and CSS files
@@ -12,10 +13,9 @@ you risk losing site interaction or possible customers.
 * Use a CDN (Content Delivery Network)
 * Enable Gzip compression
 
-
 # Resources
 
-
+* [Acceptable waiting time for users](http://ux.stackexchange.com/questions/58163/acceptable-waiting-time-for-users-in-time-sensitive-actions)
 * [Improve Server Response Time](https://developers.google.com/speed/docs/insights/Server)
 * [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 * [Why is my page slow](https://gtmetrix.com/why-is-my-page-slow.html)
