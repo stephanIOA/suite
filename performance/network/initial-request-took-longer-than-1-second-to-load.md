@@ -1,4 +1,4 @@
-The initial request took longer than 1 second to load. The average user is easily distracted and with slow requests
+The average user is easily distracted and with slow requests
 you risk losing site interaction or possible customers.
 
 
