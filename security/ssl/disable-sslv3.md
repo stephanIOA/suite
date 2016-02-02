@@ -1,4 +1,4 @@
-SSLv3 is nearly two decades old. Support, however, remains strong. Disabling support on your server will disallow clients from using this insecure protocol.
+SSLv3 is nearly two decades old and has numerous known vulnerabilities. Support, however, remains strong. Disabling support on your server will disallow clients from using this insecure protocol.
 
 # How do I fix this?
 
