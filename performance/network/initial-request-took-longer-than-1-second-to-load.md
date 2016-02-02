@@ -1,17 +1,17 @@
-Slow response times increase page abandonment with the average user only waiting
-6-10 seconds before leaving a site. Response times of less than 1 second feels
-instantaneous to the user, while in the range of 1 second a user maintains his/her
-thought process. Anywhere from 6 seconds and longer, the user loses patience with
-the site and will abandon it.
+Slow response times increase page abandonment with the average user only waiting 6-10 seconds before leaving a site. Response times of less than 1 second feels instantaneous to the user, while in the range of 1 second a user maintains his/her thought process. Anywhere from 6 seconds and longer, the user loses patience with the site and will abandon it.
 
 # How do I fix this ?
 
-* Minify your JavaScript and CSS files
-* Combine external JavaScript and CSS files
-* Reduce the number of HTTP requests being made
-* Add an Expires or a Cache-Control Header
-* Use a CDN (Content Delivery Network)
 * Enable Gzip compression
+* Use a CDN (Content Delivery Network)
+* Minify your JavaScript and CSS files
+* Test database queries for inefficiency
+* Add an Expires or a Cache-Control Header
+* Combine external JavaScript and CSS files
+* Test and optimize code related to requests
+* Move CPU intensive operations to the client
+* Reduce the number of HTTP requests being made
+* Use page level caching or leverage local storage
 
 # Resources
 
