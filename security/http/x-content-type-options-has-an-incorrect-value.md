@@ -1,6 +1,6 @@
 It is recommend to disable sniffing for content-type. This is done with the `X-Content-Type-Options: nosniff` header, which is expected on your response.
 
-The header was found but was not configured configured according to the recommendation to disable  `nosniff`.
+The header was found but was not configured configured according to the recommendation of disabling content sniffing with  `nosniff`.
 
 The recommended value we require is:
 
