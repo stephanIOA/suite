@@ -1,4 +1,4 @@
-Page is blocked for any search indexing by Googlebot Feature Phone. This prevents google to from indexing the page and makes it difficult for people to find it via a google search.
+Page is blocked for any search indexing by `Googlebot Mobile`. This prevents google to from indexing the page and makes it difficult for people to find it via a google search.
 
 # How do I fix this ?
 
