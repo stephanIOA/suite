@@ -1,5 +1,7 @@
 Slow response times increase page abandonment with the average user only waiting 6-10 seconds before leaving a site. Response times of less than 1 second feels instantaneous to the user, while in the range of 1 second a user maintains his/her thought process. Anywhere from 6 seconds and longer, the user loses patience with the site and will abandon it.
 
+The error could present itself by simply having a slow website due to application code. Or just a slow connection to the server overall. Which could indicate that your link is saturated and it's time to upgrade to a bigger or more servers to handle the traffic. Shared hosting is a common problem here.
+
 # How do I fix this ?
 
 * Enable Gzip compression
