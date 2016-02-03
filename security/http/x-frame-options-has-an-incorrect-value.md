@@ -1,4 +1,5 @@
 Clickjacking attacks happen when your site is loaded within an IFrame and the attacker has control over your input by layering over it.
+
 This HTTP header configures whether your site may be loaded in an IFrame or not.
 
 To secure your website `X-Frame-Options` should be configured as one of the following scopes:
