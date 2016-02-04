@@ -1,4 +1,4 @@
-The `<center>` tag was a easy way to quickly center children under it. The tag, however, was deprecated in HTML5 with the reasoning that it defines the presentation instead of describing the content. For the semantics web HTML needs to clearly describe content instead.
+The `<center>` tag was a easy way to quickly center children under it. The tag, however, was deprecated in HTML5 with the reasoning that it defines the presentation instead of describing the content. For the semantic web HTML needs to clearly describe content instead.
 
 An example of use was:
 
