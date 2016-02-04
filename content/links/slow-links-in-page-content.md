@@ -2,11 +2,7 @@ Having slow links in your page content ruins the user experience. You will risk 
 
 # How do I fix this ?
 
-* Reduce HTTP requests.
-* Use as less media (images, video) as possible.
 * Make sure caching is enabled, even at page level.
-* Keep styles at the top and scripts at the bottom of your pages.
-* Use gzipping, minification and combine CSS and JavaScript files.
 * Make sure links aren't redirecting as this adds to the loading time.
 
 # Resources
