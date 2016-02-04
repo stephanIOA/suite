@@ -3,10 +3,7 @@ Having broken links in your page content may affect your search engine ranking a
 # How do I fix this ?
 
 * Add relevant content to those URL's if possible.
-* Use a free/paid link scanner to help find broken links.
-* Use [Google Webmaster Tools](http://www.google.com/webmasters/tools/) to find and remove bad URL's.
-* Make sure broken links return with 404 a response code to avoid being indexed.
-* Create a custom 404 page with the same look and feel as your site, include navigational links.
+* If there are no alternatives, remove the broken links.
 * Redirect to relevant pages using `301: Moved Permanently` response code to automatically refer browsers and crawlers to the new location.
 
 # Resources
