@@ -1,3 +1,13 @@
+In computing, a character encoding is used to represent a repertoire of characters by some kind of an encoding system.
+
+Many exist such as:
+* ACSII
+* ANSI (Windows-1252)
+* ISO-8859-1
+* UTF-8 (Unicode)
+
+Because *ACSII* and *ANSI* are so limited, UTF-8 is recommended for most scenarios users might encounter.
+
 Meta tags allows setting the charset of a document using:
 
 ```html
@@ -33,3 +43,4 @@ should be updated to the following:
 # Resources
 
 * [How do I fix “Error: A charset attribute on a meta element found after the first 512 bytes.”](http://stackoverflow.com/questions/18007771/how-do-i-fix-error-a-charset-attribute-on-a-meta-element-found-after-the-first)
+* [Character encoding](https://en.wikipedia.org/wiki/Character_encoding)
