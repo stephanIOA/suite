@@ -1,7 +1,7 @@
 The presentation of a web document should be handled, as far as possible, using CSS instead of directly in the markup
 
 ```html
-<iframe src="external-resource.html" margin-width="20"> <!-- BAD: presentational code in markup -->
+<iframe src="external-resource.html" marginwidth="20"> <!-- BAD: presentational code in markup -->
 
 </iframe>
 ```
