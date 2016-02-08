@@ -28,4 +28,4 @@ body {
 ```
 # Resources
 
-* [StackOverflow — Remove extra margin from inside an ifame](http://stackoverflow.com/questions/15011230/how-can-i-remove-extra-margin-from-inside-an-iframe)
+* [StackOverflow — Remove extra margin from inside an iframe](http://stackoverflow.com/questions/15011230/how-can-i-remove-extra-margin-from-inside-an-iframe)
